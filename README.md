@@ -2,16 +2,13 @@
 
 ## 🚀 Aspiring Network Administrator | Cloud & Infrastructure Enthusiast
 
+## 💼 **About Me**
+
 I'm a tech-savvy IT professional, passionate about **network administration**, **cloud solutions**, and **integrated IoT systems**. With a background in **networking**, **Linux**, and **cloud infrastructure**, I enjoy tackling complex problems and delivering efficient, secure, and scalable solutions.
  
 - 🎓 **Recent Graduate (HONORS)** in Computer Systems Technology from Seneca Polytechnic College
-- 🔍 **Looking for**: Opportunities in **Network Admin** & **IT Infrastructural support**  
+- 🔍 **Looking for**: Opportunities in Network Admin & IT Infrastructural support
 - 🌍 **Location**: Toronto, Canada
-
----
-
-## 💼 **About Me**
-
 
 ---
 
@@ -27,9 +24,13 @@ I'm a tech-savvy IT professional, passionate about **network administration**, *
 
 ## 📊 **GitHub Overview**
 
-![Gurkaran's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?username=gurkaran-singh1&theme=highcontrast&fire=DD2727&ring=5EBA4E)
+![Gurkaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurkaran-singh1&show_icons=true&theme=tokyonight)
   
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurkaran-singh1&layout=compact&theme=radical)](https://github.com/gurkaran-singh1/github-readme-stats)
+
+![Gurkaran's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gurkaran-singh1&theme=github)
+
+![Profile Views](https://komarev.com/ghpvc/?username=gurkaran-singh1&color=blueviolet&style=flat-square)
 
 ---
 
@@ -50,7 +51,7 @@ Improved performance for remote workers by optimizing **Azure Virtual Desktop** 
 ---
 
 ## 🎯 **Goals for 2024**
-- 🚀 Achieve **Azure Solutions Architect** certification
+- 🚀 Achieve **Red Hat Certified System Administrator (RHCSA)** and **CompTIA Network+** certification
 - 🔥 Build **IoT network automation tools**
 - 🎓 Continue learning **Kubernetes** and **Docker**
 
@@ -58,6 +59,8 @@ Improved performance for remote workers by optimizing **Azure Virtual Desktop** 
 
 ## 🤝 **Let’s Connect**
 
+- Follow me on LinkedIn or send an email directly for any inquiries or opportunities!
+  
 💼 [LinkedIn](https://www.linkedin.com/in/gurkaran-singh-081898327)  
 📧 [Email](mailto:sgurkaran2813@gmail.com)  
 
