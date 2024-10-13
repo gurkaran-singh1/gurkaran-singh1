@@ -1,63 +1,97 @@
-# Hi, I'm Gurkaran 👋
+# Hey there, I'm Gurkaran! 👨‍💻✨
 
-## Aspiring Network Administrator | Cloud & Infrastructure Enthusiast | IT Support Specialist
+![Welcome](https://img.shields.io/badge/Welcome%20to%20my-GitHub-blueviolet?style=for-the-badge&logo=github)
 
-Welcome to my GitHub profile! I’m an IT professional with a passion for network administration, cloud infrastructure, and integrated IoT solutions. With experience across various platforms like Windows Server, Linux, and Azure, I enjoy solving complex challenges in networking, system administration, and security.
+## 🚀 Aspiring Network Administrator | Cloud & Infrastructure Ninja | IoT Enthusiast
 
-- 💼 **Currently**: Eservice Dispatch Agent at Precise ParkLink, focusing on customer service and technical maintenance dispatch.  
-- 🎓 **Recent Graduate**: Cloud Infrastructure Architecture & IT Networking.  
-- 🔧 **Seeking**: Opportunities in **Network Administration** or **Cloud Infrastructure** to leverage my expertise in configuring secure and efficient environments.
+I'm a tech-savvy IT professional, passionate about **network administration**, **cloud solutions**, and **integrated IoT systems**. With a background in **networking**, **Linux**, and **cloud infrastructure**, I enjoy tackling complex problems and delivering efficient, secure, and scalable solutions.
+
+- 🏢 **Eservice Dispatch Agent** @ Precise ParkLink  
+- 🎓 **Recent Graduate** in Cloud Infrastructure Architecture & Networking  
+- 🔍 **Looking for**: Opportunities in **Network Admin** & **Cloud Infrastructure**  
+- 🌍 **Location**: Toronto, Canada
 
 ---
 
-### 💡 **Skills & Tools**
+## 💼 **About Me**
 
-- **Networking**: Firewalls, VPN, TCP/IP, DHCP, DNS, VLANs
+![Linux](https://img.shields.io/badge/Linux-Experiences-black?style=for-the-badge&logo=linux&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoft-azure)
+![Firewall](https://img.shields.io/badge/Firewall-Config-orange?style=for-the-badge&logo=fortinet)
+
+🔧 I'm a **tech enthusiast** with a love for **networking**, **firewall security**, and **system administration**. My diverse experience spans configuring secure environments, troubleshooting networks, and leading cloud architecture projects.
+
+⚡ In my free time, I experiment with IoT devices and build automation tools to improve day-to-day tasks.
+
+---
+
+### 🛠 **Tech Stack**
+
+- **Networking**: Firewalls (iptables, firewalld), VPNs, DHCP, DNS
 - **Operating Systems**: Red Hat, Debian, Windows Server
-- **Cloud & Virtualization**: Microsoft Azure, VMware, MySQL Replication
-- **Automation**: Bash, iptables, Powershell scripting
-- **Active Directory**: AD DS, SSSD integration, centralized authentication
-- **IoT**: ESP32, Blynk IoT, device authentication systems
+- **Cloud**: Microsoft Azure, MySQL Replication, Virtual Machines
+- **Scripting**: Bash, Powershell, Python
+- **IoT & Hardware**: ESP32, Blynk, RFID, Sensors
 
 ---
 
-### 📚 **Projects**
+## 📊 **GitHub Overview**
 
-#### 🔑 [ESP32-based Electronic Door Lock System](https://github.com/your-project-link)
-- Built an IoT-enabled door lock system with user authentication via LCD, keypad, and Blynk IoT integration.
-
-#### 🌐 [Optimizing Azure Virtual Desktop for Remote Work](https://github.com/your-project-link)
-- A project focused on optimizing network performance and managing scalable, secure environments for remote workers using Azure.
-
-#### 🏙 [Municipal Tax Access Digitization for Rivertown](https://github.com/your-project-link)
-- Led an initiative to modernize municipal tax management by developing an online platform for a small city.
+![Gurkaran's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?username=gurkaran-singh1&theme=highcontrast&fire=DD2727&ring=5EBA4E)
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurkaran-singh1&layout=compact&theme=radical)](https://github.com/gurkaran-singh1/github-readme-stats)
 
 ---
 
-### 🌟 **GitHub Stats**
-![Gurkaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=157457219-myseneca&show_icons=true&theme=tokyonight)
+## 🚧 **Highlighted Projects**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=157457219-myseneca&layout=compact&theme=tokyonight)](https://github.com/your-github-username/github-readme-stats)
+### 🔑 [ESP32-Based Electronic Door Lock System](https://github.com/your-project-link)
+**Tech**: ESP32, Blynk IoT, LCD, Keypad  
+A high-tech, IoT-powered door lock system that authenticates users with a PIN on a keypad and monitors access via mobile with **Blynk IoT**.
 
----
+### 🌐 [Optimizing Azure Virtual Desktop for Remote Work](https://github.com/your-project-link)
+**Tech**: Microsoft Azure, VPN, PowerShell  
+Improved performance for remote workers by optimizing **Azure Virtual Desktop** deployment, managing secure access, and configuring scaling.
 
-### 📈 **Experience Highlights**
-- **Network Configuration & Troubleshooting**: Experience with routing, network security, firewall rules, and cloud integration.
-- **Infrastructure Support**: Worked as an IT Infrastructure Support Analyst at the CRA, handling networking tasks and IT infrastructure.
-- **Customer-Focused IT Solutions**: Delivering technical service and support at Precise ParkLink with a focus on efficiency and reliability.
-
----
-
-### ⚡ **Fun Fact**
-I'm always excited to explore the intersection between IoT devices and secure network infrastructure, creating efficient solutions for modern challenges!
+### 🏙 [Municipal Tax Digitization for Rivertown](https://github.com/your-project-link)
+**Tech**: Apache, Linux, MySQL  
+Digitized tax management for a small municipality by developing an online platform to streamline tax operations.
 
 ---
 
-### 📫 **Get in Touch**
+## 🌟 **Achievements & Experience**
 
-- LinkedIn: [Gurkaran's LinkedIn](https://linkedin.com/in/your-link)
-- Portfolio: [gurkaran.dev](https://your-portfolio-link)
+🏅 **IT Infrastructure Analyst** at CRA: Managed complex networking tasks, troubleshooting, and secure configurations.  
+🏅 **Cloud Architecture Projects**: Delivered **Azure** and **Linux** solutions with **high availability** and **data replication**.
 
 ---
 
-Thanks for stopping by! I’m always open to collaborating on new projects or discussing job opportunities. Feel free to reach out!
+## ⚙️ **Fun with GitHub Actions**
+
+📦 I’ve automated my project builds and tests using **GitHub Actions**. Here's a sneak peek into some cool automation:
+
+- CI/CD pipelines
+- Auto-deploying IoT projects
+- Real-time cloud monitoring
+
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-blue?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+## 🎯 **Goals for 2024**
+- 🚀 Achieve **Azure Solutions Architect** certification
+- 🔥 Build **IoT network automation tools**
+- 🎓 Continue learning **Kubernetes** and **Docker**
+
+---
+
+## 🤝 **Let’s Connect**
+
+🌐 [Portfolio](https://your-portfolio-link)  
+💼 [LinkedIn](https://linkedin.com/in/your-link)  
+📧 [Email](mailto:your-email@gmail.com)  
+
+---
+
+![Thanks](https://img.shields.io/badge/Thanks%20for-Visiting%20🚀-blue?style=for-the-badge)
+
