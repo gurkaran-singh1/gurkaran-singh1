@@ -3,15 +3,22 @@
 ### 🚀 Aspiring Network Administrator | Cloud & IT Infrastructure Enthusiast
 
 ```linux
-gurkaran-singh1:project/ $ #this is why Linux is best
-gurkaran-singh1:project/ $ figlet I LOVE LINUX
- ___     _     _____     _______     _     ___ _   _ _   ___  __
-|_ _|   | |   / _ \ \   / / ____|   | |   |_ _| \ | | | | \ \/ /
- | |    | |  | | | \ \ / /|  _|     | |    | ||  \| | | | |\  / 
- | |    | |__| |_| |\ V / | |___    | |___ | || |\  | |_| |/  \ 
-|___|   |_____\___/  \_/  |_____|   |_____|___|_| \_|\___//_/\_\
-                                                            
-gurkaran-singh1:project/ $                         
+gurkaran-singh1:project/ $ echo $NAME   
+Gurkaran_Singh
+gurkaran-singh1:project/ $ ./test    
+ _   _ _   _____ _                   _ _ 
+| | | (_) |_   _| |__   ___ _ __ ___| | |
+| |_| | |   | | | '_ \ / _ \ '__/ _ \ | |
+|  _  | |   | | | | | |  __/ | |  __/_|_|
+|_| |_|_|   |_| |_| |_|\___|_|  \___(_|_)
+                                         
+ _   _ _            _____       ____             __   __    _ 
+| \ | (_) ___ ___  |_   _|__   / ___|  ___  ___  \ \ / /_ _| |
+|  \| | |/ __/ _ \   | |/ _ \  \___ \ / _ \/ _ \  \ V / _` | |
+| |\  | | (_|  __/   | | (_) |  ___) |  __/  __/   | | (_| |_|
+|_| \_|_|\___\___|   |_|\___/  |____/ \___|\___|   |_|\__,_(_)
+                                                              
+gurkaran-singh1:project/ $                   
 ```
 
 ### 💼 **About Me**
