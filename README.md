@@ -1,8 +1,8 @@
 # Hey there, I'm Gurkaran! 👨‍💻✨
 
-## 🚀 Aspiring Network Administrator | Cloud & Infrastructure Enthusiast
+### 🚀 Aspiring Network Administrator | Cloud & Infrastructure Enthusiast
 
-## 💼 **About Me**
+### 💼 **About Me**
 
 I'm a tech-savvy IT professional, passionate about **network administration**, **cloud solutions**, and **integrated IoT systems**. With a background in **networking**, **Linux**, and **cloud infrastructure**, I enjoy tackling complex problems and delivering efficient, secure, and scalable solutions.
  
@@ -27,8 +27,6 @@ I'm a tech-savvy IT professional, passionate about **network administration**, *
 ![Gurkaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurkaran-singh1&show_icons=true&theme=tokyonight)
   
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurkaran-singh1&layout=compact&theme=radical)](https://github.com/gurkaran-singh1/github-readme-stats)
-
-![Gurkaran's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gurkaran-singh1&theme=github)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gurkaran-singh1&color=blueviolet&style=flat-square)
 
