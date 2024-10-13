@@ -1,6 +1,18 @@
 # Hey there, I'm Gurkaran! 👨‍💻✨
 
-### 🚀 Aspiring Network Administrator | Cloud & Infrastructure Enthusiast
+### 🚀 Aspiring Network Administrator | Cloud & IT Infrastructure Enthusiast
+
+```linux
+gurkaran-singh1:project/ $ #this is why Linux is best
+gurkaran-singh1:project/ $ figlet I LOVE LINUX
+ ___     _     _____     _______     _     ___ _   _ _   ___  __
+|_ _|   | |   / _ \ \   / / ____|   | |   |_ _| \ | | | | \ \/ /
+ | |    | |  | | | \ \ / /|  _|     | |    | ||  \| | | | |\  / 
+ | |    | |__| |_| |\ V / | |___    | |___ | || |\  | |_| |/  \ 
+|___|   |_____\___/  \_/  |_____|   |_____|___|_| \_|\___//_/\_\
+                                                            
+gurkaran-singh1:project/ $                         
+```
 
 ### 💼 **About Me**
 
@@ -61,6 +73,4 @@ Improved performance for remote workers by optimizing **Azure Virtual Desktop** 
   
 💼 [LinkedIn](https://www.linkedin.com/in/gurkaran-singh-081898327)  
 📧 [Email](mailto:sgurkaran2813@gmail.com)  
-
----
 
