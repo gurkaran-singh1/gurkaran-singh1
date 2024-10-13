@@ -35,9 +35,9 @@ Welcome to my GitHub profile! I’m an IT professional with a passion for networ
 ---
 
 ### 🌟 **GitHub Stats**
-![Gurkaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurkaran-singh1&show_icons=true&theme=tokyonight)
+![Gurkaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=157457219-myseneca&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurkaran-singh1&layout=compact&theme=tokyonight)](https://github.com/your-github-username/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=157457219-myseneca&layout=compact&theme=tokyonight)](https://github.com/your-github-username/github-readme-stats)
 
 ---
 
