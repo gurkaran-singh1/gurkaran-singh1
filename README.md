@@ -20,14 +20,13 @@ gurkaran-singh1:project/ $ ./test
                                                               
 gurkaran-singh1:project/ $                   
 ```
+---
 
 ### 💼 **About Me**
 
 I'm a tech-savvy IT professional, passionate about **network administration**, **cloud solutions**, and **integrated IoT systems**. With a background in **networking**, **Linux**, and **cloud infrastructure**, I enjoy tackling complex problems and delivering efficient, secure, and scalable solutions.
  
-- 🎓 **Recent Graduate (HONORS)** in Computer Systems Technology from Seneca Polytechnic College
-- 🔍 **Looking for**: Opportunities in Network Admin & IT Infrastructural support
-- 🌍 **Location**: Toronto, Canada
+🎓 **Recent Graduate (HONORS)** in Computer Systems Technology from Seneca Polytechnic College **Looking for**: Opportunities in Network Admin & IT Infrastructural support.
 
 ---
 
@@ -53,17 +52,17 @@ I'm a tech-savvy IT professional, passionate about **network administration**, *
 
 ## 🚧 **Highlighted Projects**
 
-### 🔑 [ESP32-Based Electronic Door Lock System](https://github.com/your-project-link)
+### 🔑 [ESP32-Based Electronic Door Lock System](https://github.com/gurkaran-singh1/ESP32-Soleniod-keypad-door-lock-system)
 **Tech**: ESP32, Blynk IoT, LCD, Keypad, Soleniod Lock  
 IoT-powered door lock system that authenticates users with a PIN on a keypad and monitors access via mobile with **Blynk IoT**.
 
-### 🌐 [Multi-Tier Cloud Infrastructure Implementation for Web and Database Services](https://github.com/your-project-link)
-**Tech**: Microsoft Azure, PowerShell, HTTP webpage, MYSQL, FTP services 
+### 🌐 [Multi-Tier Cloud Infrastructure Implementation for Web and Database Services](https://github.com/gurkaran-singh1/Multi-Tier-Cloud-Infrastructure-Implementation-for-Web-and-Database-Services)
+**Tech**: Azure, Networking (iptables, routing protocols), HTTP/Apache webpage, MYSQL server/client setup, FTP services
 Configured FTP, MySQL databases, and HTTP web servers across multiple environments, supporting secure operations for client-server interactions.
 
-### 🏙 [Optimizing Azure Virtual Desktop for Remote Workforce](https://github.com/your-project-link)
-**Tech**: Apache, Linux, MySQL  
-Improved performance for remote workers by optimizing **Azure Virtual Desktop** deployment, managing secure access, and configuring scaling
+### 🏙 [Azure Virtual Desktop Deployment for Seamless Remote Access](https://github.com/gurkaran-singh1/Azure-Virtual-Desktop-Deployment-for-Seamless-Remote-Access)
+**Tech**: Azure, Microsoft Entra ID connect to on-prem services, AD users and computers management, AVD deployment, RDP secure services, FSLogix
+Optimized Azure Virtual Desktop environment that supports secure, high-performance remote access to services while managing user     profiles and data securely across sessions, Leveraging FSLogix for profile management.
 
 ---
 
@@ -77,7 +76,6 @@ Improved performance for remote workers by optimizing **Azure Virtual Desktop** 
 ## 🤝 **Let’s Connect**
 
 - Follow me on LinkedIn or send an email directly for any inquiries or opportunities!
-  
-💼 [LinkedIn](https://www.linkedin.com/in/gurkaran-singh-081898327)  
-📧 [Email](mailto:sgurkaran2813@gmail.com)  
+  - 💼 [LinkedIn](https://www.linkedin.com/in/gurkaran-singh-081898327)
+  - 📧 [Email](mailto:sgurkaran2813@gmail.com)  
 
